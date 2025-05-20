@@ -1,3 +1,18 @@
-body {
+      h1 {
+  color: #212738;
+  text-decoration: overline underline 10px #467599 ;
+}
 
+body {
+  background-color: #9ED8DB;
+}
+           
+img:hover{
+  width: 50%;
+}
+
+h1:hover{
+  color: #212738;
+  text-decoration: overline underline 10px #467599 ;
+  text-shadow: 2px 2px red;
 }
